@@ -1,5 +1,5 @@
 # 手机时代人类学习和工作面临的困境及解决方案
-# (Difficulties and Solutions of Human Learning and Working in Mobile Era)
+# Difficulties and Solutions of Human Learning and Working in Mobile Era
 
 ### 实验前的准备
 
