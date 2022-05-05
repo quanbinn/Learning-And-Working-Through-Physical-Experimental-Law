@@ -40,28 +40,7 @@
 	- [控制台式机和笔记本使用总时间的N个经验](/chapters/)
 - 理解个人PEIM
 
-### 解决方案1：交互式学习法
-
-- [定义](/chapters/)
-- [学习工具（含实体）](/chapters/)--达芬奇和牛顿的例子
-- [站立体式](/chapters/)
-- [交互式学习法的定义](/chapters/)
-- [评价好的交互式学习教程的N个标准](/chapters/)
-- [案例1：](/chapters/)
-- [案例2：](/chapters/)
-- [案例3：](/chapters/)
-
-### 解决方案2：逆向工作法
-
-- [定义](/chapters/)
-- [学习工具（含实体）](/chapters/)
-- [站立体式](/chapters/)
-- [逆向工作法的N个原则](/chapters/)
-- [案例1：](/chapters/)
-- [案例2：](/chapters/)
-- [案例3：](/chapters/)
-
-### 儿童及青少年的眼睛保护方案
+### 近视防控的原理和实践
 
 - 眼睛的轴线变长产生近视的物理过程 
 	- [视网膜位于眼球壁的内层有脱落的风险](/chapters/儿童及青少年的眼睛保护方案/视网膜位于眼球壁的内层有脱落的风险.md)
@@ -85,28 +64,33 @@
 		- [实体模型](/chapters/儿童及青少年的眼睛保护方案/.md)
 		- [懒粘胶站立](/chapters/儿童及青少年的眼睛保护方案/.md)
 
-### 各个年龄段人群的学习原则
-
-- [幼儿](/chapters//.md)
-- [小学生](/chapters//.md)
-- [初中生](/chapters//.md)
-- [高中生](/chapters//.md)
-- [大学生（职业高中生）](/chapters//.md)
-- [研究生及以上](/chapters//.md)
-
-### 用交互法学习学习各个学科
-
-- [数学](/chapters//.md)
-- [编程](/chapters//.md)
-- [英语](/chapters//.md)
-
-### 解剖锻炼
+### 深刻理解解剖基础下的锻炼
 
 - 负重
 - 自重增肌
 - 运动
 	- [足球](/chapters//.md)
 
-## VOLUME 1: 手机时代人类学习和工作面临的困境及解决方案
-## Difficulties and Solutions of Human Learning in Mobile Era
+### 解决方案1：用实体进行交互式学习
+
+- [定义](/chapters/)
+- [学习工具（含实体）](/chapters/)--达芬奇和牛顿的例子
+- [站立体式](/chapters/)
+- [交互式学习法的定义](/chapters/)
+- [评价好的交互式学习教程的N个标准](/chapters/)
+- 案例
+	- [数学](/chapters/) | [编程](/chapters/) | [英语](/chapters/)
+- 各个年龄段人群的学习原则
+	- [幼儿](/chapters//.md) | [小学生](/chapters//.md) | [初中生](/chapters//.md)
+	- [高中生](/chapters//.md) | [大学生（职业高中生）](/chapters//.md) | [研究生及以上](/chapters//.md)
+
+### 解决方案2：逆向工作
+
+- [定义](/chapters/)
+- [学习工具（含实体）](/chapters/)
+- [站立体式](/chapters/)
+- [逆向工作法的N个原则](/chapters/)
+- 案例
+	- [1](/chapters/) | [2](/chapters/) | [3](/chapters/)
+
 
