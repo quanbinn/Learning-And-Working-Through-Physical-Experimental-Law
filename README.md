@@ -1,6 +1,5 @@
-
-# 实体学习和工作的实践
-# The Practice of Physical Learning and Working
+# 实体学习和工作的方法
+# Learning and Working Methods through Physical Entities
 
 ### 实验前的准备
 
