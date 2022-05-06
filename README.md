@@ -3,16 +3,13 @@
 
 ### 实验前的准备
 
-- [**重要：首先体验交互式的代码**]()
-- [作者简介]()
-- [实验方法]()
+- [**重要：首先体验交互式的代码**]() | [作者简介]() | [实验方法]()
 
 ### 理解手机时代人类学习和工作面临的困境
 - 背景
 	- [学习和工作的工具的改变](/chapters/) | [学习和工作的体式的改变](/chapters/)
 	- [电子设备的过度使用](/chapters/)
-- [眼睛走向高度近视和干眼症](/chapters/)
-- [颈椎病的高发](/chapters/) | [腰椎病的高发](/chapters/)
+- [眼睛走向高度近视和干眼症](/chapters/) | [颈椎病的高发](/chapters/) | [腰椎病的高发](/chapters/)
 
 ### 从输出和输入的角度来理解学习和工作
 
@@ -27,11 +24,9 @@
 	- [手机的定义](/chapters/)
 	- [手机的strength](/chapters/) | [手机的weakness](/chapters/)----非常小的字体（字体的数字定量）
 	- [使用手机的理想体式](/chapters/)
-	- [如何辨别手机中的无用信息和垃圾信息](/chapters/)
-	- [控制手机使用总时间的N个经验](/chapters/)
+	- [如何辨别手机中的无用信息和垃圾信息](/chapters/) | [控制手机使用总时间的N个经验](/chapters/)
 - 控制台式机和笔记本
-	- [如何辨别台式机和笔记本中的无用信息和垃圾信息](/chapters/)
-	- [控制台式机和笔记本使用总时间的N个经验](/chapters/)
+	- [如何辨别台式机和笔记本中的无用信息和垃圾信息](/chapters/) | [控制台式机和笔记本使用总时间的N个经验](/chapters/)
 - 理解个人PEIM
 
 ### 近视防控的原理和实践
@@ -45,18 +40,13 @@
 - [每个孩子的家长及长辈必须要知道的一个概念：远视储备](/chapters/儿童及青少年的眼睛保护方案/每个孩子的家长及长辈必须要知道的一个概念：远视储备.md)
 - 近视防控的具体对策
 	- 营造良好的物理环境
-		- [尽可能延长户外活动时间](/chapters/儿童及青少年的眼睛保护方案/尽可能延长户外活动时间.md)
-		- [营造良好家庭室内照明环境](/chapters/儿童及青少年的眼睛保护方案/营造良好家庭室内照明环境.md)
-		- [严格管控电子产品](/chapters/儿童及青少年的眼睛保护方案/严格管控电子产品.md)
-		- [用工具控制孩子阅读时的视距](/chapters/儿童及青少年的眼睛保护方案/用工具控制孩子阅读时的视距.md) 
-		- [严格限制长时间近距离用眼活动](/chapters/儿童及青少年的眼睛保护方案/严格限制长时间近距离用眼活动.md)
+		- [尽可能延长户外活动时间](/chapters/儿童及青少年的眼睛保护方案/尽可能延长户外活动时间.md) | [营造良好家庭室内照明环境](/chapters/儿童及青少年的眼睛保护方案/营造良好家庭室内照明环境.md)
+		- [严格管控电子产品](/chapters/儿童及青少年的眼睛保护方案/严格管控电子产品.md) | [用工具控制孩子阅读时的视距](/chapters/儿童及青少年的眼睛保护方案/用工具控制孩子阅读时的视距.md) 
 		- [严格管控绘本等阅读产品](/chapters/儿童及青少年的眼睛保护方案/严格管控绘本等阅读产品.md)
 	- 在学习过程中间中间歇看远减少眼球的轴朝后变长的压力
 	- [户外学习](/chapters/儿童及青少年的眼睛保护方案/严格管控绘本等阅读产品.md)
 	- 室内学习要点
-		- [吧台式站立](/chapters/儿童及青少年的眼睛保护方案/.md)
-		- [实体模型](/chapters/儿童及青少年的眼睛保护方案/.md)
-		- [懒粘胶站立](/chapters/儿童及青少年的眼睛保护方案/.md)
+		- [吧台式站立](/chapters/儿童及青少年的眼睛保护方案/.md) | [实体模型](/chapters/儿童及青少年的眼睛保护方案/.md) | [懒粘胶站立](/chapters/儿童及青少年的眼睛保护方案/.md)
 
 ### 深刻理解解剖基础下的锻炼
 
@@ -73,11 +63,9 @@
 - [交互式学习法的定义](/chapters/)
 - [评价好的交互式学习教程的N个标准](/chapters/)
 - 交互式教程
-	- [《用实体实验法学数学》](https://gitee.com/quanbinn/Learn-Mathematical-Olympiad-The-Interactive-Way) 
-	- [《用实体实验法学编程和Web开发》](https://gitee.com/quanbinn/Learn-Programming-And-Web-Development-The-Interactive-Way)
+	- [《用实体实验法学数学》](https://gitee.com/quanbinn/Learn-Mathematical-Olympiad-The-Interactive-Way) | [《用实体实验法学编程和Web开发》](https://gitee.com/quanbinn/Learn-Programming-And-Web-Development-The-Interactive-Way)
 - 各个年龄段人群的学习原则
-	- [幼儿](/chapters//.md) | [小学生](/chapters//.md) | [初中生](/chapters//.md)
-	- [高中生](/chapters//.md) | [大学生（职业高中生）](/chapters//.md) | [研究生及以上](/chapters//.md)
+	- [幼儿](/chapters//.md) | [小学生](/chapters//.md) | [初中生](/chapters//.md) | [高中生](/chapters//.md) | [大学生（职业高中生）](/chapters//.md) | [研究生及以上](/chapters//.md)
 
 ### 逆向的实体工作方法
 
