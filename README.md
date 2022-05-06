@@ -9,20 +9,15 @@
 
 ### 理解手机时代人类学习和工作面临的困境
 - 背景
-	- [学习和工作的工具的改变](/chapters/)
-	- [学习和工作的体式的改变](/chapters/)
+	- [学习和工作的工具的改变](/chapters/) | [学习和工作的体式的改变](/chapters/)
 	- [电子设备的过度使用](/chapters/)
 - [眼睛走向高度近视和干眼症](/chapters/)
-- [颈椎病的高发](/chapters/)
-- [腰椎病的高发](/chapters/)
+- [颈椎病的高发](/chapters/) | [腰椎病的高发](/chapters/)
 
 ### 从输出和输入的角度来理解学习和工作
 
 - 人类与世界交互的Sensor
-	- [眼睛](/chapters/)
-	- [手指](/chapters/)
-	- [耳朵](/chapters/)
-	- [大脑](/chapters/)
+	- [眼睛](/chapters/) | [手指](/chapters/) | [耳朵](/chapters/) | [大脑](/chapters/)
 - [输入和输出](/chapters/)
 - [学习的输入和输出的重要原则](/chapters/)---重要：从台式机和笔记本中找到资料，然后打印出来大字体阅读
 - [工作的输入和输出的重要原则](/chapters/)
@@ -30,8 +25,7 @@
 ### 手机等电子设备使用的理想模型
 - 深刻的理解手机
 	- [手机的定义](/chapters/)
-	- [手机的strength](/chapters/)
-	- [手机的weakness](/chapters/)----非常小的字体（字体的数字定量）
+	- [手机的strength](/chapters/) | [手机的weakness](/chapters/)----非常小的字体（字体的数字定量）
 	- [使用手机的理想体式](/chapters/)
 	- [如何辨别手机中的无用信息和垃圾信息](/chapters/)
 	- [控制手机使用总时间的N个经验](/chapters/)
@@ -71,20 +65,21 @@
 - 运动
 	- [足球](/chapters//.md)
 
-### 解决方案1：用实体进行交互式学习
+### 交互式的实体学习方法
 
 - [定义](/chapters/)
 - [学习工具（含实体）](/chapters/)--达芬奇和牛顿的例子
 - [站立体式](/chapters/)
 - [交互式学习法的定义](/chapters/)
 - [评价好的交互式学习教程的N个标准](/chapters/)
-- 案例
-	- [数学](/chapters/) | [编程](/chapters/) | [英语](/chapters/)
+- 交互式教程
+	- [《用实体实验法学数学》](https://gitee.com/quanbinn/Learn-Mathematical-Olympiad-The-Interactive-Way) 
+	- [《用实体实验法学编程和Web开发》](https://gitee.com/quanbinn/Learn-Programming-And-Web-Development-The-Interactive-Way)
 - 各个年龄段人群的学习原则
 	- [幼儿](/chapters//.md) | [小学生](/chapters//.md) | [初中生](/chapters//.md)
 	- [高中生](/chapters//.md) | [大学生（职业高中生）](/chapters//.md) | [研究生及以上](/chapters//.md)
 
-### 解决方案2：逆向工作
+### 逆向的实体工作方法
 
 - [定义](/chapters/)
 - [学习工具（含实体）](/chapters/)
@@ -92,5 +87,4 @@
 - [逆向工作法的N个原则](/chapters/)
 - 案例
 	- [1](/chapters/) | [2](/chapters/) | [3](/chapters/)
-
 
