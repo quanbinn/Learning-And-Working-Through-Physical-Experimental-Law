@@ -1,0 +1,12 @@
+# 评价好的逆向的实体工作法的N个标准
+
+![](/images/掌握逆向的使用实体实验的工作方法/评价好的逆向的实体工作法的N个标准/1a1.jpg)
+
+## 参考文献及资料
+
+1. 维基百科
+	- [english](.....) | [汉语](...)
+
+2. [....](https://web.archive.org/web/20120520061156/http://www.sitance.com/cause/index.php) 
+
+
