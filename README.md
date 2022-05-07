@@ -60,26 +60,21 @@
 
 ### 掌握交互式的使用实体实验的学习方法
 
-- [定义](/chapters/)
-- [学习工具（含实体）](/chapters/)--达芬奇和牛顿的例子
-- [站立体式](/chapters/)
-- [交互式学习法的定义](/chapters/)
-- [评价好的交互式学习教程的N个标准](/chapters/)
-- 交互式教程
-	- [《用实体实验法学数学》](https://gitee.com/quanbinn/Learn-Mathematical-Olympiad-The-Interactive-Way) | [《用实体实验法学编程和Web开发》](https://gitee.com/quanbinn/Learn-Programming-And-Web-Development-The-Interactive-Way)
+- [实体的交互式学习方法的定义](/chapters/掌握交互式的使用实体实验的学习方法/实体的交互式学习方法的定义.md)
+- [实体学习的工具](/chapters/掌握交互式的使用实体实验的学习方法/实体学习的工具.md)
+- [实体学习的站立体式](/chapters/掌握交互式的使用实体实验的学习方法/实体学习的站立体式.md)
+- [评价好的交互式的实体学习法的N个标准](/chapters/掌握交互式的使用实体实验的学习方法/评价好的交互式的实体学习法的N个标准.md)
+- 典型的交互式教程
+	- [《用实体实验法学数学》](https://gitee.com/quanbinn/Learn-Mathematical-Olympiad-The-Interactive-Way) 
+	- [《用实体实验法学编程和Web开发》](https://gitee.com/quanbinn/Learn-Programming-And-Web-Development-The-Interactive-Way)
 - 各个年龄段人群的学习原则
-	- [幼儿](/chapters//.md) | [小学生](/chapters//.md) | [初中生](/chapters//.md) | [高中生](/chapters//.md) | [大学生（职业高中生）](/chapters//.md) | [研究生及以上](/chapters//.md)
+	- [17岁及以下](/chapters/掌握交互式的使用实体实验的学习方法/17岁及以下.md) | [17岁以上](/chapters/掌握交互式的使用实体实验的学习方法/17岁以上.md)
 
 ### 掌握逆向的使用实体实验的工作方法
 
-- [定义](/chapters/)
-- [学习工具（含实体）](/chapters/)
-- [站立体式](/chapters/)
-- [逆向工作法的N个原则](/chapters/)
-- 案例
-	- [1](/chapters/) | [2](/chapters/) | [3](/chapters/)
-
-
-	- 室内学习要点
-		- [吧台式站立](/chapters/理解用于近视防控的一系列方法的背后原理/.md) | [实体模型](/chapters/理解用于近视防控的一系列方法的背后原理/.md) | [懒粘胶站立](/chapters/理解用于近视防控的一系列方法的背后原理/.md)
-
+- [实体的逆向工作方法的定义](/chapters/掌握逆向的使用实体实验的工作方法/实体的逆向工作方法的定义.md)
+- [实体工作的工具](/chapters/掌握逆向的使用实体实验的工作方法/实体工作的工具.md)
+- [实体工作的站立体式](/chapters/掌握逆向的使用实体实验的工作方法/实体工作的站立体式.md)
+- [评价好的逆向的实体工作法的N个标准](/chapters/掌握逆向的使用实体实验的工作方法/评价好的逆向的实体工作法的N个标准.md)
+- 典型的逆向工作案例
+	- [输出一段程序代码](/chapters/掌握逆向的使用实体实验的工作方法/输出一段程序代码.md) | [像达芬奇一样输出一页手稿](/chapters/掌握逆向的使用实体实验的工作方法/像达芬奇一样输出一页手稿.md)
